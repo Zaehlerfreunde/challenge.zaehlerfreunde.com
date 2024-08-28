@@ -25,9 +25,8 @@ In order to get the market prices we will use a specific REST API GET endpoint:
 {
     readings:[
         {
-            From:1724770724000,
-            To: 1724857124000,
-            Value : 2000.0 //consumption in in kwh
+            timeStamp:1724770724000,
+            value : 2000.0 //consumption in in kwh
         }
     ]
 }
