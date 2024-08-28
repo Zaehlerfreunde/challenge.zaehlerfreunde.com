@@ -32,13 +32,13 @@ In order to get the market prices we will use a specific REST API GET endpoint:
         // meter reading A
         {
             timestamp:1724760000000,
-            value : 2000.0 //consumption in in kwh
+            value : 2000.0 //consumption in kwh
         },
 
          // meter reading B
         {
             timestamp:1724760900000,
-            value : 2500.0 //consumption in in kwh
+            value : 2500.0 //consumption in kwh
         }
     ]
 }
