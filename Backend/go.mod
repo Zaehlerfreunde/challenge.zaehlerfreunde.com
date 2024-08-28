@@ -1,4 +1,4 @@
-module costservice
+module challenge.zaehlerfreunde.com
 
 go 1.22.0
 
